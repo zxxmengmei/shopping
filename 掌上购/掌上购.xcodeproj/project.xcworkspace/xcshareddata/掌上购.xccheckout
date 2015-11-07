@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DCC43E18-FE8D-4345-AA0B-33654B6DB0F8</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FC4832245A6A8E50F2A782F20A8B58A46BD1FEB</key>
+		<string>https://github.com/Masonry/Masonry.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FC4832245A6A8E50F2A782F20A8B58A46BD1FEB</key>
+		<string>Masonry/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Masonry/Masonry.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FC4832245A6A8E50F2A782F20A8B58A46BD1FEB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FC4832245A6A8E50F2A782F20A8B58A46BD1FEB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Masonry</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>one</key>
+	<dict>
+		<key>selectedImage</key>
+		<string>team_home_Jersey@2x.png</string>
+		<key>titleName</key>
+		<string>首页</string>
+		<key>imageName</key>
+		<string>team_home_Jersey@2x.png</string>
+		<key>controllerName</key>
+		<string>ZXHomeViewController</string>
+	</dict>
+	<key>two</key>
+	<dict>
+		<key>selectedImage</key>
+		<string>vertical_sound_s_ic_night@3x.png</string>
+		<key>titleName</key>
+		<string>放松</string>
+		<key>imageName</key>
+		<string>vertical_sound_s_ic_night@3x.png</string>
+		<key>controllerName</key>
+		<string>ZXClassifyViewController</string>
+	</dict>
+	<key>three</key>
+	<dict>
+		<key>selectedImage</key>
+		<string>clock_night@2x.png</string>
+		<key>titleName</key>
+		<string>社区</string>
+		<key>imageName</key>
+		<string>clock_night@2x.png</string>
+		<key>controllerName</key>
+		<string>ZXMakeUpViewController</string>
+	</dict>
+	<key>four</key>
+	<dict>
+		<key>selectedImage</key>
+		<string>host_ic_night@3x.png</string>
+		<key>titleName</key>
+		<string>我的</string>
+		<key>imageName</key>
+		<string>host_ic_night@3x.png</string>
+		<key>controllerName</key>
+		<string>ZXMyViewController</string>
+	</dict>
+</dict>
+</plist>
